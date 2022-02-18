@@ -1,0 +1,10 @@
+----- Nota Fiscal ------
+Id da Venda: 1
+[
+ Produto [Nome do Serviço: Impressão, Preço: R$2.0, Quantidade do Serviço: 7]]
+
+Valor Total: R$14.0
+Nome: Cliente
+Data: 18/02/2022 18:16:23
+------------------------- 
+
